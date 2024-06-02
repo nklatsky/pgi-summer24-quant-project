@@ -1,0 +1,4 @@
+# Block all files inside of !Data folder (large file sizes)
+
+!Data/*
+
